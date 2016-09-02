@@ -1,0 +1,16 @@
+{
+	"name": "inpsyde/block-mails-quick-n-dirty",
+	"description": "Blocks outgoing WordPress emails by removing all recipients",
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"license": "MIT",
+	"type": "wordpress-plugin",
+	"authors": [
+		{
+			"name": "Inpsyde GmbH",
+			"homepage": "http://inpsyde.com/",
+			"email": "hallo@inpsyde.com",
+			"role": "Company"
+		}
+	]
+}
