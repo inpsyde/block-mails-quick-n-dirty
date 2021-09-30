@@ -2,6 +2,10 @@
 
 Blocks outgoing WordPress emails by removing all recipients
 
+## UNMAINTAINED
+
+_NOTE:_ This repository is no longer maintained.
+
 ## Table Of Contents
 
 * [Installation](#installation)
